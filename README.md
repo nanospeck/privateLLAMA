@@ -1,4 +1,4 @@
-# PrivateLLAMA
+# PrivateLLAMA (LLAMA 2)
 
 Create a QnA chatbot on your documents without relying on the internet by utilizing the capabilities of local LLMs. Ensure complete privacy and security as none of your data ever leaves your local execution environment. Seamlessly process and inquire about your documents even without an internet connection. Inspired from [SamurAIGPT](https://github.com/SamurAIGPT)
 
@@ -58,7 +58,7 @@ Follow [Akhil](https://twitter.com/akhilkarun) on twitter for updates
 
 ## Support
 
-Join our discord <https://discord.gg/A6EzvsKX4u> to get support
+Reach out [Akhil](https://twitter.com/akhilkarun) on twitter to get support
 
 ## Data
 
