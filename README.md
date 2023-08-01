@@ -36,6 +36,11 @@ Follow [Akhil](https://twitter.com/akhilkarun) on twitter for updates
    ```shell
    npm run dev
    ```
+3. Copy the example.env template into .env
+
+   ```shell
+   cp example.env .env
+   ```
 
 2. Go to server folder and run the below commands (feel free to use virtual env)
 
